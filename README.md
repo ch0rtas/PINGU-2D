@@ -4,7 +4,7 @@
 Este repositorio contiene el proyecto **PINGU**, un juego de plataformas 2D desarrollado como parte del curso _"Proyectos II: Tendencias de la Ingeniería del Software"_. El juego sigue a un pingüino mientras explora el Ártico enfrentándose a distintos retos.
 
 Puedes ver una demo del juego en el siguiente GIF:  
-![Demo del juego](https://github.com/ch0rtas/PINGU-2D/PINGU-DEMO.gif)
+![Demo del juego](PINGU-DEMO.gif)
 
 ## Descripción del proyecto
 
