@@ -1,10 +1,13 @@
 
 # PINGU - Juego de Plataformas 2D
 
-Este repositorio contiene el proyecto **PINGU**, un juego de plataformas 2D desarrollado como parte del curso _"Proyectos II: Tendencias de la Ingeniería del Software"_. El juego sigue a un pingüino mientras explora el Ártico enfrentándose a distintos retos.
+Este repositorio contiene el proyecto **PINGU**, un juego de plataformas 2. El juego sigue a un pingüino mientras explora el Ártico enfrentándose a distintos retos.
 
-Puedes ver una demo del juego en el siguiente GIF:  
-![Demo del juego](PINGU-DEMO.gif)
+<p align="center">
+  <img src="PINGU-DEMO.gif" alt="Demo del juego">
+  <br>
+  <em>Gameplay del nivel 1 - 1</em>
+</p>
 
 ## Descripción del proyecto
 
@@ -50,9 +53,9 @@ El juego fue desarrollado en **Unity 2022.3.9f1**, aprovechando sus capacidades 
 
 Para más detalles sobre el desarrollo y las decisiones técnicas tomadas durante este proyecto, consulta la [explicación completa y el archivo PDF "Memoria PINGU"](https://github.com/ch0rtas/IS-Proyectos_II/tree/main/PINGU), que se encuentra en el repositorio de GitHub.
 
-[!TIP]  
-**Recomendación para desarrolladores:**  
-Si estás interesado en hacer modificaciones significativas, como la adición de nuevos personajes o niveles, te sugiero que te familiarices con el sistema de animaciones de Unity y las herramientas de optimización de rendimiento antes de comenzar. La documentación oficial de Unity es un recurso excelente para ello.
+> [!TIP]  
+> **Recomendación para desarrolladores:**  
+> Si estás interesado en hacer modificaciones significativas, como la adición de nuevos personajes o niveles, te sugiero que te familiarices con el sistema de animaciones de Unity y las herramientas de optimización de rendimiento antes de comenzar. La documentación oficial de Unity es un recurso excelente para ello.
 
 ## Licencia
 
